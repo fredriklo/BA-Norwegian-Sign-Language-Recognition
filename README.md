@@ -6,3 +6,5 @@ To run the project, you need XCode and a developer account.
 2. Open the project settings (the top-most file in the navigator - "Sign Language Classifier" and open the "Signing and Capabilities" tab
 3. Change the development team to your own team
 4. Select your mobile device as a run destination and build the app
+
+Note that a real device is required to run the app, as it uses the phone camera. 
