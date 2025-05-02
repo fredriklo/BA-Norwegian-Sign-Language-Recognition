@@ -11,4 +11,5 @@ Note that a real device is required to run the app, as it uses the phone camera.
 
 
 ### App demo video
-<video src="https://github.com/fredriklo/BA-Norwegian-Sign-Language-Recognition/raw/refs/heads/main/app%20demo.mp4"></>
+https://github.com/user-attachments/assets/f2f5bd4e-a088-4290-8bf3-421dc9139efd
+
