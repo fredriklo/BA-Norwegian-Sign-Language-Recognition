@@ -12,5 +12,6 @@ Note that a real device is required to run the app, as it uses the phone camera.
 
 ### App demo video
 Below is a preview of the app, showcasing recognition of all 20 words. 
+
 https://github.com/user-attachments/assets/f2f5bd4e-a088-4290-8bf3-421dc9139efd
 
