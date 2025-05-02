@@ -8,3 +8,7 @@ To run the project, you need XCode and a developer account.
 4. Select your mobile device as a run destination and build the app
 
 Note that a real device is required to run the app, as it uses the phone camera. 
+
+
+### App demo video
+<video src="https://github.com/fredriklo/BA-Norwegian-Sign-Language-Recognition/blob/main/app%20demo.mov" width="300"/>
